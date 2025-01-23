@@ -1,5 +1,11 @@
 Hangman Game 🎮
 A fun, interactive version of the classic Hangman word-guessing game. In this game, players attempt to guess a hidden word by suggesting letters, one at a time. Each incorrect guess adds a part to a stick figure, and the goal is to guess the word before the figure is fully drawn.
+
+
+
+
+![A word completing game with one letter shown and the rest represented by dashes](https://github.com/user-attachments/assets/305bed58-48a6-4214-b351-f2e8b0277f4b)
+
 Features
 •	Play with random words or custom words.
 •	Guess letters or try to guess the entire word.
